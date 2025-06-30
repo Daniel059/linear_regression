@@ -1,6 +1,6 @@
 # Linear Regression - House Prices
 
-This project uses a linear regression model to predict house prices based on features like area, number of bedrooms, and age. Built using Python and Scikit-learn.
+This project uses a linear regression model to predict house prices based on features like number of bedrooms. Built using Python and Scikit-learn.
 
 ## Contents
 - Jupyter Notebook with code
